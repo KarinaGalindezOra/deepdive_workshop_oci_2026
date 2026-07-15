@@ -83,7 +83,7 @@ Al finalizar, serás capaz de:
 ## 🧭 Tabla de contenidos
 
 ### 🧱 Módulo 1 · Preparación del entorno
-- [1.1 Creación del compartment `demo`](#11-creación-del-compartment-demo)
+- [1.1 Creación del compartment `demo`](https://github.com/floridioracle/deepdive_workshop_oci_2026#-m%C3%B3dulo-1--preparaci%C3%B3n-del-entorno-1)
 - [1.2 Despliegue de Autonomous AI Database + AIDP con Resource Manager](#12-despliegue-de-autonomous-ai-database--aidp-con-resource-manager)
 - [1.3 Acceso a AI Data Platform Workbench](#13-acceso-a-ai-data-platform-workbench)
 - [1.4 Descargar la Wallet de Autonomous Database](#14-descargar-la-wallet-de-autonomous-database)
